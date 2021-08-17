@@ -1,9 +1,4 @@
-https://the-internet.herokuapp.com/
-https://www.swtestacademy.com/install-chrome-driver-on-mac/
-robot -d ./log title.robot
-robot -d ./log -i css title.robot
-https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
-
+[![Robot Framework](https://img.shields.io/badge/tested%20with-Robot%20Framework-%2300c0b5.svg)](https://robotframework.org/)
 
 ## The Internet tests:computer:
 
