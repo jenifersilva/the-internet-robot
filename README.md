@@ -10,7 +10,7 @@ It is an automation suite for The Internet application using Robot Framework and
 
 ## Setup :hammer:
 
-1. Install Python and pip from [here](https://www.python.org/downloads/)
+1. Install Python3 and pip3 from [here](https://www.python.org/downloads/)
 2. Install Robot Framework
     ```
     $ pip3 install robotframework
