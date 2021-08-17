@@ -1,6 +1,6 @@
 [![Robot Framework](https://img.shields.io/badge/tested%20with-Robot%20Framework-%2300c0b5.svg)](https://robotframework.org/)
 
-## The Internet tests:computer:
+## The Internet :computer:
 
 https://the-internet.herokuapp.com/
 
